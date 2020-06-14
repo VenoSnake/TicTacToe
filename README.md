@@ -25,3 +25,6 @@
 # Program In Action:
 
 ## TicTacToe Game:
+
+![](/Images/TicTacToe.gif)
+
