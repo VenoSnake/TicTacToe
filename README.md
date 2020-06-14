@@ -28,4 +28,6 @@
 
 ![](/Images/TicTacToe.gif)
 
+## AI Bot Training:
 
+**Coming Soon**
